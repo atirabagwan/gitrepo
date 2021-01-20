@@ -1,2 +1,3 @@
 this is registration
-added password
+Added username
+
